@@ -1,2 +1,5 @@
-# Unimeet
-A student-faculty appointment making website
+# Student-Teacher-Appointment-Backend
+
+.env file
+db_conn=''
+JWT_KEY =
